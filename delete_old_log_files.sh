@@ -1,4 +1,5 @@
 #!/bin/bash
+#Author: Aishwarya
 #Delete old log files from a specified directory
 
 LOG_DIR="/var/log/httpd.log"
