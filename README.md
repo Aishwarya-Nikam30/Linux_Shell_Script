@@ -23,31 +23,25 @@ The first line in a shell script that tells the system which interpreter to use.
 ```bash
 #!/bin/bash
 ```
-```
-> **Comments:**  
+> **Comments**:
 > Anything following `#` is a comment and is ignored by the shell.
-```
-```
-> **Variables:**  
+
+> **Variables**:
 > Store values in a script.
-```
-```
-> **Conditional Statements:**  
+
+> **Conditional Statements**:
 > Perform different actions based on conditions.
-```
-```
-> **Loops:**  
+
+> **Loops**:
 > Repeat a block of code multiple times.
-```
-```
-> **Functions:**  
+
+> **Functions**:
 > Group commands into reusable blocks.
-```
-```
+
 ## How to Run a Shell Script
 
 1. Create a file with `.sh` extension.  
-   **Example:** `script.sh`
+   Example: `script.sh`
 
 2. Make the script executable:
    bash
