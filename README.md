@@ -44,6 +44,5 @@ The first line in a shell script that tells the system which interpreter to use.
    Example: `script.sh`
 
 2. Make the script executable:
-   bash
+   ```bash
    chmod +x script.sh
-```
